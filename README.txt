@@ -11,3 +11,5 @@ Telepítés:
 1. Töltsd fel az egész mappát HTTPS-es statikus tárhelyre, például GitHub Pages vagy Netlify.
 2. Android Chrome-ban nyisd meg az URL-t.
 3. Menü: Install app / Hozzáadás kezdőképernyőhöz.
+
+Javítás: a sorsolás partnerCount logikát használ, ezért ugyanaz a páros csak kényszerhelyzetben ismétlődhet.
