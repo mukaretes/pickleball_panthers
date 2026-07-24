@@ -1,1 +1,44 @@
-{{"name":"Pickleball Panthers v1.2","short_name":"Pickleball","description":"Pickleball Panthers v1.2 a Győzelem x50 opció nélkül.","start_url":"./index.html","scope":"./","display":"standalone","orientation":"portrait","background_color":"#f6f7fb","theme_color":"#52a832","lang":"hu","icons":[{{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"}},{{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}},{{"src":"icons/maskable-192.png","sizes":"192x192","type":"image/png","purpose":"maskable"}},{{"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}}]}}
+{
+  "id": "./",
+  "name": "Pickleball Panthers v1.2",
+  "short_name": "Pickleball",
+  "description": "Pickleball Panthers v1.2 a Győzelem x50 opció nélkül.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#f6f7fb",
+  "theme_color": "#52a832",
+  "lang": "hu",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
