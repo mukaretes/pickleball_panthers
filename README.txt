@@ -1,5 +1,5 @@
 Pickleball Panthers PWA v1.2
 
-Újdonság: globális partnerelosztó sorsolás minimum-cost matchinggel és több teljes menetrend próbával.
+Új rangsor opció: Oszlopos statisztika, érintéssel rendezhető oszlopokkal: Gy, Szerzett, Bukott, +/-, Meccs.
 
-Telepítés: töltsd fel HTTPS-es tárhelyre, például GitHub Pages vagy Netlify, majd Android Chrome-ban Install app.
+Telepítés: HTTPS tárhelyre feltöltés, majd Android Chrome -> Install app.
